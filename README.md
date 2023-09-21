@@ -1,4 +1,4 @@
-# Adventure-works-Dashboard
+# Adventure-works- Sales Dashboard
 Summary of project objectives:
 I'm was working on transforming, Analyzing, modeling and visualizing the Adventure Works history data of sales and operations departments to figure out the company's performance to get an overview insights of the both department's sales performance of the previous years to know the gaps and how we can keep the market equity and expand more.
 
@@ -7,11 +7,11 @@ I'm was working on transforming, Analyzing, modeling and visualizing the Adventu
 
 
 
-![1 1](https://github.com/Ahmedelsaghir/Adventure-works-Dashboard/assets/69742253/d6c74f84-86dc-48ed-a429-6e3df70ef1d1)
-
-
-
 ![2](https://github.com/Ahmedelsaghir/Adventure-works-Dashboard/assets/69742253/667e0040-bdd2-4e04-9342-65b7a5289a53)
+
+
+
+![1 1](https://github.com/Ahmedelsaghir/Adventure-works-Dashboard/assets/69742253/d6c74f84-86dc-48ed-a429-6e3df70ef1d1)
 
 
 
@@ -36,6 +36,8 @@ Conductivity Mode => Direct Query
 - Dates (Created table y Power Query)
 - Get all into one product table (Merge M Language)
 (Contains: PorductID, Product, SubCategory, Category)
+
+
 ![schema](https://github.com/Ahmedelsaghir/Adventure-works-Dashboard/assets/69742253/a978071a-eccb-47f1-93b6-f5e43f4dfa22)
 
 Modeling:
